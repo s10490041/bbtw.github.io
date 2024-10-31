@@ -1,0 +1,1 @@
+-e "---\ntitle: \"First Post\"\ndate: $(date +%Y-%m-%d)\ndraft: false\n---\n\nHello, this is my first post!" 
