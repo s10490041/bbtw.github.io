@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on roxo-hugo</title>
-    <link>https://s10490041.github.io/bbtw.github.io/post/</link>
+    <link>http://localhost:1313/bbtw.github.io/post/</link>
     <description>Recent content in Posts on roxo-hugo</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 31 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://s10490041.github.io/bbtw.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/bbtw.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First Post</title>
-      <link>https://s10490041.github.io/bbtw.github.io/post/first-post/</link>
+      <link>http://localhost:1313/bbtw.github.io/post/first-post/</link>
       <pubDate>Thu, 31 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://s10490041.github.io/bbtw.github.io/post/first-post/</guid>
+      <guid>http://localhost:1313/bbtw.github.io/post/first-post/</guid>
       <description>&lt;h1 id=&#34;歡迎來到我的第一篇文章&#34;&gt;歡迎來到我的第一篇文章&lt;/h1&gt;&#xA;&lt;p&gt;這是我使用 Hugo 建立的第一篇文章！&lt;/p&gt;</description>
     </item>
   </channel>

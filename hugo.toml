@@ -1,4 +1,4 @@
 baseURL = 'https://s10490041.github.io/bbtw.github.io/'
 languageCode = 'en-us'
 title = 'roxo-hugo'
-theme = 'roxo-hugo'
+theme = "roxo-hugo"
